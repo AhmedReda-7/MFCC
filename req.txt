@@ -1,0 +1,45 @@
+libs :
+
+pyaudio
+wave
+os
+pickle
+time
+keras
+scipy
+
+GMM = Gaussian Mixture Model
+حل مشكلة تداخل نوعين او اكتر من البيانات
+
+mkdir = make new directory
+بتعمل فولدر جديد 
+
+cls = clear cmd
+بتمسح commands
+
+waveFile.setnchannels(CHANNELS)
+
+waveFile.setsampwidth(audio.get_sample_size(FORMAT))
+
+waveFile.setframerate(RATE)
+
+waveFile.writeframes(b''.join(frames))
+
+np.array([])
+np.asarray(())
+
+MFCC
+
+np.vstack((features, vector))
+
+pickle.dump
+
+
+
+add_user():     adds new user to the system.
+		collects your voice 3 times to increase accuracy.
+		make some preprocessing on your voice.
+		remove the silent speaking.
+		store it in voice_database.
+
+

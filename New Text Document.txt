@@ -1,0 +1,17 @@
+diagrams:
+block d
+flowchart d
+any other nesseray uml d
+internal dataset d
+training and testing d
+report + code + shortend d
+how the algo works d
+resources paper d
+main functions and features using use case diagram d
+all algos explained using block diagram d
+insights,advs,disadvs? d
+algorithm behavior and future modifications? d
+
+
+basic gui
+how did you test the solution
